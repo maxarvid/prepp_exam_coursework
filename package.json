@@ -10,5 +10,9 @@
   },
   "devDependencies": {
     "cypress": "^8.3.0"
+  },
+  "scripts": {
+    "start": "superstatic src --port 3000",
+    "cy:open": "yarn start & cypress open"
   }
 }
