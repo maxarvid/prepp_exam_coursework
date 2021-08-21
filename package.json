@@ -1,0 +1,14 @@
+{
+  "name": "prepp_exam_coursework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maxarvid/prepp_exam_coursework.git",
+  "author": "maxarvid <max.arvid.anderson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "superstatic": "^7.1.0"
+  },
+  "devDependencies": {
+    "cypress": "^8.3.0"
+  }
+}
